@@ -1,0 +1,8 @@
+Train/test split summary
+Input CSV: C:\Users\admin\Downloads\test_questions.csv
+Total questions: 574
+Train ratio: 0.8
+Seed: 7111
+Train questions: 459
+Test questions: 115
+Input had reference answers: False

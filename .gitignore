@@ -1,0 +1,63 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local model files and vector database
+models/
+qdrant_storage/
+
+# Downloaded/generated data artifacts
+data/raw/html/
+data/raw/pdf/
+data/raw/txt/
+data/processed/documents/
+data/processed/corpus.jsonl
+data/processed/corpus_metadata.csv
+data/chunks/chunks.jsonl
+data/chunks/chunks.csv
+
+# Runtime outputs
+logs/
+artifacts/runs/
+system_outputs/
+
+# Temporary and OS files
+*.tmp
+*.temp
+*.bak
+Thumbs.db
+.DS_Store
+
+# LaTeX build files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+

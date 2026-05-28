@@ -1,0 +1,24 @@
+Preprocessing summary
+Processed at: 2026-05-28T02:51:07.477136+00:00
+Documents processed: 62
+Documents skipped/errors: 2
+Chunks created: 774
+Average chunk words: 202.8
+Min chunk words: 40
+Max chunk words: 220
+
+Documents by topic:
+- budget_tax: 3
+- city_policy: 1
+- cmu: 4
+- cmu_events: 3
+- cmu_history: 3
+- culture_music: 10
+- events: 2
+- events_music_sports: 1
+- food_events: 9
+- general_history: 3
+- museums: 7
+- museums_history: 2
+- sports: 12
+- tourism_general: 2

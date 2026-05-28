@@ -1,0 +1,121 @@
+split	topic	source_hint	question	reference_answer
+train	general_history	wiki_pittsburgh	Who is Pittsburgh named after?	William Pitt the Elder
+train	general_history	wiki_pittsburgh	Which British statesman gave Pittsburgh its name?	William Pitt the Elder
+train	general_history	wiki_pittsburgh	Who named Pittsburgh in 1758?	General John Forbes
+train	general_history	wiki_history_pittsburgh	What French fort stood at Pittsburgh's Point before Fort Pitt?	Fort Duquesne
+train	general_history	wiki_pittsburgh	What park marks the confluence of Pittsburgh's three rivers?	Point State Park
+train	general_history	wiki_pittsburgh	Which river is formed where the Allegheny and Monongahela rivers meet?	Ohio River
+train	general_history	wiki_pittsburgh	What nickname reflects Pittsburgh's large number of bridges?	City of Bridges
+train	general_history	wiki_pittsburgh	How many bridges does Pittsburgh have according to the Pittsburgh Wikipedia page?	446 bridges
+train	general_history	wiki_pittsburgh	How many distinct neighborhoods does Pittsburgh have?	90
+train	general_history	wiki_pittsburgh	Which Pittsburgh neighborhood is known as Little Italy?	Bloomfield
+train	general_history	britannica_pittsburgh	What is the name of Downtown Pittsburgh's triangular business district?	Golden Triangle
+train	general_history	wiki_pittsburgh	What industry is behind Pittsburgh's nickname Steel City?	steel industry
+train	general_history	wiki_pittsburgh	Which famous Pittsburgh incline overlooks downtown from Mount Washington?	Duquesne Incline
+train	general_history	britannica_pittsburgh	What park contains the Fort Pitt Blockhouse and Fort Pitt Museum?	Point State Park
+train	general_history	wiki_pittsburgh	What are Pittsburgh's traditional sports colors?	black and gold
+train	cmu	wiki_cmu	Who founded the Carnegie Technical Schools?	Andrew Carnegie
+train	cmu	wiki_cmu	When were the Carnegie Technical Schools established?	November 15, 1900
+train	cmu	wiki_cmu	In what year did Carnegie Tech merge with the Mellon Institute to become Carnegie Mellon University?	1967
+train	cmu	wiki_cmu	What institution merged with Carnegie Tech to form Carnegie Mellon University?	Mellon Institute of Industrial Research
+train	cmu	wiki_cmu	What university was formed by the merger of Carnegie Tech and the Mellon Institute?	Carnegie Mellon University
+train	cmu	wiki_cmu	Who founded the Mellon Institute of Industrial Research?	Richard Mellon and Andrew Mellon
+train	cmu_history	cmu_ai_history	In what year did CMU establish its computer science department?	1965
+train	cmu_history	cmu_ai_history	What CMU institute was founded in 1979 as the first robotics institute at a U.S. university?	Robotics Institute
+train	cmu_history	cmu_ai_history	In what year did CMU found the Robotics Institute?	1979
+train	cmu_history	cmu_ai_history	What CMU institute was launched in 1984 with government funding?	Software Engineering Institute
+train	cmu_history	cmu_ai_history	What CMU school was announced in 1988 as a college devoted solely to computer science?	School of Computer Science
+train	cmu	wiki_cmu	What campus object at Carnegie Mellon is considered the world's most painted object?	The Fence
+train	cmu	cmu_visit	What Jonathan Borofsky sculpture is a landmark on Carnegie Mellon's campus?	Walking to the Sky
+train	cmu	cmu_visit	What Pittsburgh neighborhood contains Carnegie Mellon's main campus?	Oakland
+train	cmu	cmu_about	Name one place outside Pittsburgh where Carnegie Mellon has a campus presence.	Silicon Valley; Qatar; Africa
+train	cmu	cmu_about	What four campus locations does CMU list on its about page?	Pittsburgh, Silicon Valley, Qatar, and Africa
+train	cmu_history	cmu_ai_history	Name one early CMU researcher who helped establish artificial intelligence at CMU.	Alan Newell; Herb Simon; Allen Perlis; Raj Reddy
+train	cmu	wiki_cmu_scs	What complex is home to much of Carnegie Mellon's School of Computer Science?	Gates-Hillman Complex
+train	museums	carnegie_museums_about	How many museums are in Carnegie Museums of Pittsburgh?	four
+train	museums	carnegie_museums_about	Name one of the four Carnegie Museums of Pittsburgh.	Carnegie Museum of Art; Carnegie Museum of Natural History; Kamin Science Center; The Andy Warhol Museum
+train	museums	carnegie_museums_history	What organization was founded in November 1895 and is now Carnegie Museums?	Carnegie Institute
+train	museums	carnegie_museums_history	Who founded Carnegie Institute, now Carnegie Museums?	Andrew Carnegie
+train	museums	carnegie_museums_history	What did Andrew Carnegie call the original Carnegie Institute building?	his monument
+train	museums	carnegie_museums_history	What museum joined Carnegie Museums in 1994?	The Andy Warhol Museum
+train	museums	carnegie_museums_history	Which Carnegie museum's growth included the Sarah Scaife Galleries?	Carnegie Museum of Art
+train	museums	britannica_pittsburgh	Which Carnegie museum houses the Henry Buhl Jr. Planetarium and Observatory?	Carnegie Science Center
+train	museums_history	heinz_history_center	Which Pittsburgh museum calls itself Pittsburgh's people museum?	Heinz History Center
+train	museums_history	heinz_history_center	What region's stories does the Heinz History Center focus on?	Western Pennsylvania
+train	museums	frick_pittsburgh	What is the name of Henry Clay Frick's historic house at The Frick Pittsburgh?	Clayton
+train	museums	frick_pittsburgh	How large is The Frick Pittsburgh's site?	10 acres
+train	museums	frick_pittsburgh	What Frick structure served the Frick family from 1897 through the 1970s?	greenhouse
+train	culture_music	wiki_pittsburgh_cultural_trust	What organization is associated with Pittsburgh's Cultural District?	Pittsburgh Cultural Trust
+train	culture_music	wiki_pittsburgh_symphony	Which major orchestra is based in Pittsburgh?	Pittsburgh Symphony Orchestra
+train	food_events	picklesburgh_visit	What annual Pittsburgh festival is the destination for all things pickled?	Picklesburgh
+train	food_events	picklesburgh_home	What are the 2026 dates for Picklesburgh?	July 16-19, 2026
+train	food_events	picklesburgh_home	How many days is Picklesburgh 2026 scheduled to last?	four days
+train	food_events	picklesburgh_home	What year of the festival is Picklesburgh celebrating in 2026?	11th year
+train	food_events	picklesburgh_visit	What publication's readers voted Picklesburgh the number one specialty food festival in the country?	USA Today
+train	food_events	picklesburgh_visit	What type of payment format is Picklesburgh primarily using?	cashless
+train	food_events	little_italy_days_about	What festival started in 2002 to celebrate Bloomfield's Italian heritage?	Little Italy Days
+train	food_events	little_italy_days_about	When did Little Italy Days start?	2002
+train	food_events	visitpittsburgh_food_festivals	Which Pittsburgh neighborhood hosts Little Italy Days?	Bloomfield
+train	food_events	pittsburgh_restaurant_week_winter	How often is Pittsburgh Restaurant Week held?	twice a year
+train	food_events	pittsburgh_restaurant_week_winter	What seasons does Pittsburgh Restaurant Week celebrate?	summer and winter
+train	food_events	pittsburgh_restaurant_week_winter	What are the dates for Winter Restaurant Week 2026?	January 12-18, 2026
+train	food_events	pittsburgh_taco_fest_visitpittsburgh	In what month is The Original Pittsburgh Taco Festival scheduled for 2026?	September 2026
+train	food_events	pittsburgh_taco_fest_visitpittsburgh	Where is The Original Pittsburgh Taco Festival held?	The Stacks at 3 Crossings
+train	food_events	pittsburgh_taco_fest_visitpittsburgh	What is the address of The Stacks at 3 Crossings for the Pittsburgh Taco Festival?	2875 Railroad Street
+train	food_events	pittsburgh_taco_fest_visitpittsburgh	The Original Pittsburgh Taco Festival generates support for nonprofits aiding which community?	Pittsburgh's Latin American community
+train	food_events	visitpittsburgh_annual_events	What Pittsburgh festival was established in 2019 to honor food service pioneers and entrepreneurs?	Pittsburgh Soul Food Festival
+train	sports	visitpittsburgh_sports_teams	Where do the Pittsburgh Steelers play home games?	Acrisure Stadium
+train	sports	visitpittsburgh_sports_teams	Where do the Pittsburgh Penguins play home games?	PPG Paints Arena
+train	sports	wiki_pittsburgh	Where do the Pittsburgh Pirates play home games?	PNC Park
+train	sports	visitpittsburgh_sports_teams	How many Super Bowl titles have the Pittsburgh Steelers won according to Visit Pittsburgh?	six
+train	sports	visitpittsburgh_sports_teams	What nickname is used for Pittsburgh after the Steelers became the first NFL team with six Super Bowl titles?	Sixburgh
+train	sports	visitpittsburgh_sports_teams	How many Stanley Cups are the Pittsburgh Penguins described as having won by Visit Pittsburgh?	five
+train	sports	wiki_pirates	What was the original name of the Pittsburgh Pirates franchise?	Allegheny Base Ball Club of Pittsburgh
+train	sports	wiki_pirates	In what year was the Pittsburgh Pirates franchise founded?	1881
+train	sports	wiki_pittsburgh	What is Pittsburgh's oldest professional sports franchise?	Pittsburgh Pirates
+train	sports	wiki_steelers	In what year were the Pittsburgh Steelers founded?	1933
+train	sports	wiki_penguins	In what year were the Pittsburgh Penguins founded?	1967
+train	sports	wiki_penguins	What colors did the Penguins adopt in 1980 to match Pittsburgh's other teams?	black and gold
+train	sports	wiki_pirates	What is the right-field wall at PNC Park nicknamed?	Clemente Wall
+train	sports	visitpittsburgh_sports_teams	What color pair do Pittsburgh fans bleed according to Visit Pittsburgh?	black and gold
+train	sports	wiki_pirates	Which Pirates player hit the walk-off home run that decided the 1960 World Series?	Bill Mazeroski
+test	general_history	wiki_history_pittsburgh	Which British fort replaced Fort Duquesne at Pittsburgh's Point?	Fort Pitt
+test	general_history	wiki_pittsburgh	Which two rivers meet to form the Ohio River in Pittsburgh?	Allegheny River and Monongahela River
+test	general_history	wiki_pittsburgh	What U.S. state is Pittsburgh located in?	Pennsylvania
+test	general_history	wiki_pittsburgh	What nickname connects Pittsburgh to steelmaking?	Steel City
+test	general_history	wiki_pittsburgh	What Pittsburgh neighborhood is also called the city's Little Italy?	Bloomfield
+test	general_history	wiki_pittsburgh	How many neighborhoods are listed for Pittsburgh?	90
+test	general_history	wiki_pittsburgh	How many bridges are associated with Pittsburgh in the corpus?	446 bridges
+test	general_history	wiki_pittsburgh	What is the name of Pittsburgh's Downtown triangle?	Golden Triangle
+test	cmu	wiki_cmu	What year did Carnegie Mellon University take its current name after a merger?	1967
+test	cmu	wiki_cmu	What school did Andrew Carnegie establish in 1900?	Carnegie Technical Schools
+test	cmu_history	cmu_ai_history	Which CMU institute was the first robotics institute at a U.S. university?	Robotics Institute
+test	cmu_history	cmu_ai_history	Which CMU institute was launched in 1984?	Software Engineering Institute
+test	cmu	wiki_cmu	What is The Fence at Carnegie Mellon often called?	the world's most painted object
+test	cmu	cmu_visit	In what Pittsburgh neighborhood is Carnegie Mellon's urban campus nestled?	Oakland
+test	cmu_history	cmu_ai_history	Name one CMU researcher associated with the early history of AI at CMU.	Alan Newell; Herb Simon; Allen Perlis; Raj Reddy
+test	museums	carnegie_museums_about	How many institutions make up Carnegie Museums of Pittsburgh?	four
+test	museums	carnegie_museums_about	Which Carnegie museum is devoted to Andy Warhol?	The Andy Warhol Museum
+test	museums	carnegie_museums_history	Who created the Carnegie Institute in Pittsburgh?	Andrew Carnegie
+test	museums_history	heinz_history_center	Which Pittsburgh museum shares stories of Western Pennsylvania's people?	Heinz History Center
+test	museums	frick_pittsburgh	What is the historic house at The Frick Pittsburgh called?	Clayton
+test	culture_music	wiki_pittsburgh_opera	What opera company is based in Pittsburgh?	Pittsburgh Opera
+test	culture_music	wiki_pittsburgh_symphony	What is Pittsburgh's major symphony orchestra called?	Pittsburgh Symphony Orchestra
+test	food_events	picklesburgh_visit	What festival is described as the destination for all things pickled?	Picklesburgh
+test	food_events	picklesburgh_home	When does Picklesburgh 2026 run?	July 16-19, 2026
+test	food_events	visitpittsburgh_annual_events	Which Pittsburgh festival honors food service pioneers and was established in 2019?	Pittsburgh Soul Food Festival
+test	food_events	pittsburgh_taco_fest_visitpittsburgh	What annual Pittsburgh festival celebrates tacos and Mexican cuisine?	The Original Pittsburgh Taco Festival
+test	food_events	visitpittsburgh_annual_events	Which festival includes pickle cocktails, pickle beer, and a pickle juice drinking contest?	Picklesburgh
+test	food_events	pittsburgh_taco_fest_visitpittsburgh	At what venue is The Original Pittsburgh Taco Festival held?	The Stacks at 3 Crossings
+test	food_events	little_italy_days_about	What year did Little Italy Days begin?	2002
+test	food_events	visitpittsburgh_annual_events	Which Westmoreland County festival celebrates the birthplace of the banana split?	The Great American Banana Split Celebration
+test	sports	wiki_pittsburgh	What ballpark is home to the Pittsburgh Pirates?	PNC Park
+test	sports	visitpittsburgh_sports_teams	What stadium is home to the Pittsburgh Steelers?	Acrisure Stadium
+test	sports	visitpittsburgh_sports_teams	What arena is home to the Pittsburgh Penguins?	PPG Paints Arena
+test	sports	visitpittsburgh_sports_teams	How many Super Bowl championships are associated with the Steelers on Visit Pittsburgh?	six
+test	sports	visitpittsburgh_sports_teams	How many Stanley Cup championships are associated with the Penguins on Visit Pittsburgh?	five
+test	sports	wiki_pirates	Under what name was the Pirates franchise founded?	Allegheny Base Ball Club of Pittsburgh
+test	sports	wiki_pirates	When was the Pittsburgh Pirates franchise founded?	1881
+test	sports	wiki_pittsburgh	What colors are shared by Pittsburgh's major professional sports teams?	black and gold
+test	sports	visitpittsburgh_sports_teams	Which Pittsburgh team helped inspire the nickname Sixburgh?	Pittsburgh Steelers
+test	sports	wiki_pirates	What is the PNC Park right-field wall called?	Clemente Wall

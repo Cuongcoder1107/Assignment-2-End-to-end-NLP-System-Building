@@ -1,0 +1,26 @@
+iaa_id,question,annotator_a_answer,annotator_b_answer,exact_match,token_f1
+1,Which British fort replaced Fort Duquesne at Pittsburgh's Point?,Fort Pitt,Fort Pitt,1,1.0000
+2,Which two rivers meet to form the Ohio River in Pittsburgh?,Allegheny River and Monongahela River,Allegheny River and Monongahela River,1,1.0000
+3,What U.S. state is Pittsburgh located in?,southwestern Pennsylvania,southwestern Pennsylvania,1,1.0000
+4,What Pittsburgh neighborhood is also called the city's Little Italy?,Bloomfield,Bloomfield,1,1.0000
+5,How many neighborhoods are listed for Pittsburgh?,90,90,1,1.0000
+6,How many bridges are associated with Pittsburgh in the corpus?,446 bridges,446 bridges,1,1.0000
+7,What school did Andrew Carnegie establish in 1900?,Carnegie Technical Schools,Carnegie Technical Schools,1,1.0000
+8,In what Pittsburgh neighborhood is Carnegie Mellon's urban campus nestled?,Oakland,Oakland,1,1.0000
+9,Name one CMU researcher associated with the early history of AI at CMU.,Alan Newell; Herb Simon; Allen Perlis; Raj Reddy,Alan Newell; Herb Simon; Allen Perlis; Raj Reddy,1,1.0000
+10,Who created the Carnegie Institute in Pittsburgh?,Andrew Carnegie,Andrew Carnegie,1,1.0000
+11,What is the historic house at The Frick Pittsburgh called?,Clayton,Clayton,1,1.0000
+12,What opera company is based in Pittsburgh?,Pittsburgh Opera,Pittsburgh Opera,1,1.0000
+13,What festival is described as the destination for all things pickled?,Picklesburgh,Picklesburgh,1,1.0000
+14,When does Picklesburgh 2026 run?,"July 16-19, 2026","July 16-19, 2026",1,1.0000
+15,What annual Pittsburgh festival celebrates tacos and Mexican cuisine?,The Original Pittsburgh Taco Festival,The Original Pittsburgh Taco Festival,1,1.0000
+16,Which Westmoreland County festival celebrates the birthplace of the banana split?,The Great American Banana Split Celebration,The Great American Banana Split Celebration,1,1.0000
+17,What ballpark is home to the Pittsburgh Pirates?,PNC Park,PNC Park,1,1.0000
+18,What arena is home to the Pittsburgh Penguins?,PPG Paints Arena,PPG Paints Arena,1,1.0000
+19,How many Super Bowl championships are associated with the Steelers on Visit Pittsburgh?,six,six,1,1.0000
+20,How many Stanley Cup championships are associated with the Penguins on Visit Pittsburgh?,five,five,1,1.0000
+21,Under what name was the Pirates franchise founded?,Allegheny Base Ball Club of Pittsburgh,Allegheny Base Ball Club of Pittsburgh,1,1.0000
+22,When was the Pittsburgh Pirates franchise founded?,1882,1882,1,1.0000
+23,What colors are shared by Pittsburgh's major professional sports teams?,black and gold,black and gold,1,1.0000
+24,Which Pittsburgh team helped inspire the nickname Sixburgh?,Pittsburgh Steelers,Pittsburgh Steelers,1,1.0000
+25,What is the PNC Park right-field wall called?,Clemente Wall,Clemente Wall,1,1.0000

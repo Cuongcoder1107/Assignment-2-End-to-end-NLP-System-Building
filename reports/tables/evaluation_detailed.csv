@@ -1,0 +1,121 @@
+row_id,topic,system,question,reference_answer,prediction,exact_match,token_f1,answer_recall
+1,general_history,closed_book,Which British fort replaced Fort Duquesne at Pittsburgh's Point?,Fort Pitt,Fort Pitt,1.0000,1.0000,1.0000
+2,general_history,closed_book,Which two rivers meet to form the Ohio River in Pittsburgh?,Allegheny River and Monongahela River,unknown,0.0000,0.0000,0.0000
+3,general_history,closed_book,What U.S. state is Pittsburgh located in?,Pennsylvania,Pennsylvania,1.0000,1.0000,1.0000
+4,general_history,closed_book,What nickname connects Pittsburgh to steelmaking?,Steel City,"Pittsburgh is known as the ""Steel City",0.0000,0.5000,1.0000
+5,general_history,closed_book,What Pittsburgh neighborhood is also called the city's Little Italy?,Bloomfield,Liberty Heights,0.0000,0.0000,0.0000
+6,general_history,closed_book,How many neighborhoods are listed for Pittsburgh?,90,unknown,0.0000,0.0000,0.0000
+7,general_history,closed_book,How many bridges are associated with Pittsburgh in the corpus?,446 bridges,unknown,0.0000,0.0000,0.0000
+8,general_history,closed_book,What is the name of Pittsburgh's Downtown triangle?,Golden Triangle,Heinz Field,0.0000,0.0000,0.0000
+9,cmu,closed_book,What year did Carnegie Mellon University take its current name after a merger?,1967,unknown,0.0000,0.0000,0.0000
+10,cmu,closed_book,What school did Andrew Carnegie establish in 1900?,Carnegie Technical Schools,unknown,0.0000,0.0000,0.0000
+11,cmu_history,closed_book,Which CMU institute was the first robotics institute at a U.S. university?,Robotics Institute,Carnegie Mellon Robotics Institute,0.0000,0.6667,1.0000
+12,cmu_history,closed_book,Which CMU institute was launched in 1984?,Software Engineering Institute,unknown,0.0000,0.0000,0.0000
+13,cmu,closed_book,What is The Fence at Carnegie Mellon often called?,the world's most painted object,The Frick Memorial,0.0000,0.0000,0.0000
+14,cmu,closed_book,In what Pittsburgh neighborhood is Carnegie Mellon's urban campus nestled?,Oakland,Shadyside,0.0000,0.0000,0.0000
+15,cmu_history,closed_book,Name one CMU researcher associated with the early history of AI at CMU.,Alan Newell; Herb Simon; Allen Perlis; Raj Reddy,John McCarthy,0.0000,0.0000,0.0000
+16,museums,closed_book,How many institutions make up Carnegie Museums of Pittsburgh?,four,4,0.0000,0.0000,0.0000
+17,museums,closed_book,Which Carnegie museum is devoted to Andy Warhol?,The Andy Warhol Museum,unknown,0.0000,0.0000,0.0000
+18,museums,closed_book,Who created the Carnegie Institute in Pittsburgh?,Andrew Carnegie,unknown,0.0000,0.0000,0.0000
+19,museums_history,closed_book,Which Pittsburgh museum shares stories of Western Pennsylvania's people?,Heinz History Center,Heinz History Center,1.0000,1.0000,1.0000
+20,museums,closed_book,What is the historic house at The Frick Pittsburgh called?,Clayton,unknown,0.0000,0.0000,0.0000
+21,culture_music,closed_book,What opera company is based in Pittsburgh?,Pittsburgh Opera,unknown,0.0000,0.0000,0.0000
+22,culture_music,closed_book,What is Pittsburgh's major symphony orchestra called?,Pittsburgh Symphony Orchestra,Pittsburgh Symphony Orchestra,1.0000,1.0000,1.0000
+23,food_events,closed_book,What festival is described as the destination for all things pickled?,Picklesburgh,Champagne Flavored Cheese Festival,0.0000,0.0000,0.0000
+24,food_events,closed_book,When does Picklesburgh 2026 run?,"July 16-19, 2026",unknown,0.0000,0.0000,0.0000
+25,food_events,closed_book,Which Pittsburgh festival honors food service pioneers and was established in 2019?,Pittsburgh Soul Food Festival,unknown,0.0000,0.0000,0.0000
+26,food_events,closed_book,What annual Pittsburgh festival celebrates tacos and Mexican cuisine?,The Original Pittsburgh Taco Festival,unknown,0.0000,0.0000,0.0000
+27,food_events,closed_book,"Which festival includes pickle cocktails, pickle beer, and a pickle juice drinking contest?",Picklesburgh,unknown,0.0000,0.0000,0.0000
+28,food_events,closed_book,At what venue is The Original Pittsburgh Taco Festival held?,The Stacks at 3 Crossings,unknown,0.0000,0.0000,0.0000
+29,food_events,closed_book,What year did Little Italy Days begin?,2002,unknown,0.0000,0.0000,0.0000
+30,food_events,closed_book,Which Westmoreland County festival celebrates the birthplace of the banana split?,The Great American Banana Split Celebration,unknown,0.0000,0.0000,0.0000
+31,sports,closed_book,What ballpark is home to the Pittsburgh Pirates?,PNC Park,PNC Park,1.0000,1.0000,1.0000
+32,sports,closed_book,What stadium is home to the Pittsburgh Steelers?,Acrisure Stadium,Heinz Field,0.0000,0.0000,0.0000
+33,sports,closed_book,What arena is home to the Pittsburgh Penguins?,PPG Paints Arena,Heinz Arena,0.0000,0.4000,0.3333
+34,sports,closed_book,How many Super Bowl championships are associated with the Steelers on Visit Pittsburgh?,six,unknown,0.0000,0.0000,0.0000
+35,sports,closed_book,How many Stanley Cup championships are associated with the Penguins on Visit Pittsburgh?,five,unknown,0.0000,0.0000,0.0000
+36,sports,closed_book,Under what name was the Pirates franchise founded?,Allegheny Base Ball Club of Pittsburgh,unknown,0.0000,0.0000,0.0000
+37,sports,closed_book,When was the Pittsburgh Pirates franchise founded?,1881,1881,1.0000,1.0000,1.0000
+38,sports,closed_book,What colors are shared by Pittsburgh's major professional sports teams?,black and gold,unknown,0.0000,0.0000,0.0000
+39,sports,closed_book,Which Pittsburgh team helped inspire the nickname Sixburgh?,Pittsburgh Steelers,unknown,0.0000,0.0000,0.0000
+40,sports,closed_book,What is the PNC Park right-field wall called?,Clemente Wall,The Hat Corner,0.0000,0.0000,0.0000
+1,general_history,rag_top5,Which British fort replaced Fort Duquesne at Pittsburgh's Point?,Fort Pitt,Fort Pitt,1.0000,1.0000,1.0000
+2,general_history,rag_top5,Which two rivers meet to form the Ohio River in Pittsburgh?,Allegheny River and Monongahela River,Allegheny River,0.0000,0.5714,0.4000
+3,general_history,rag_top5,What U.S. state is Pittsburgh located in?,Pennsylvania,Pennsylvania,1.0000,1.0000,1.0000
+4,general_history,rag_top5,What nickname connects Pittsburgh to steelmaking?,Steel City,City of Steel,0.0000,0.8000,1.0000
+5,general_history,rag_top5,What Pittsburgh neighborhood is also called the city's Little Italy?,Bloomfield,Bloomfield,1.0000,1.0000,1.0000
+6,general_history,rag_top5,How many neighborhoods are listed for Pittsburgh?,90,unknown,0.0000,0.0000,0.0000
+7,general_history,rag_top5,How many bridges are associated with Pittsburgh in the corpus?,446 bridges,446,0.0000,0.6667,0.5000
+8,general_history,rag_top5,What is the name of Pittsburgh's Downtown triangle?,Golden Triangle,Golden Triangle,1.0000,1.0000,1.0000
+9,cmu,rag_top5,What year did Carnegie Mellon University take its current name after a merger?,1967,1967,1.0000,1.0000,1.0000
+10,cmu,rag_top5,What school did Andrew Carnegie establish in 1900?,Carnegie Technical Schools,Carnegie Technical Schools,1.0000,1.0000,1.0000
+11,cmu_history,rag_top5,Which CMU institute was the first robotics institute at a U.S. university?,Robotics Institute,Robots Institute,0.0000,0.5000,0.5000
+12,cmu_history,rag_top5,Which CMU institute was launched in 1984?,Software Engineering Institute,Software Engineering Institute,1.0000,1.0000,1.0000
+13,cmu,rag_top5,What is The Fence at Carnegie Mellon often called?,the world's most painted object,The world's most painted object,1.0000,1.0000,1.0000
+14,cmu,rag_top5,In what Pittsburgh neighborhood is Carnegie Mellon's urban campus nestled?,Oakland,Oakland,1.0000,1.0000,1.0000
+15,cmu_history,rag_top5,Name one CMU researcher associated with the early history of AI at CMU.,Alan Newell; Herb Simon; Allen Perlis; Raj Reddy,Alan Newell,1.0000,1.0000,1.0000
+16,museums,rag_top5,How many institutions make up Carnegie Museums of Pittsburgh?,four,4,0.0000,0.0000,0.0000
+17,museums,rag_top5,Which Carnegie museum is devoted to Andy Warhol?,The Andy Warhol Museum,The Andy Warhol Museum,1.0000,1.0000,1.0000
+18,museums,rag_top5,Who created the Carnegie Institute in Pittsburgh?,Andrew Carnegie,Andrew Carnegie,1.0000,1.0000,1.0000
+19,museums_history,rag_top5,Which Pittsburgh museum shares stories of Western Pennsylvania's people?,Heinz History Center,unknown,0.0000,0.0000,0.0000
+20,museums,rag_top5,What is the historic house at The Frick Pittsburgh called?,Clayton,Clayton,1.0000,1.0000,1.0000
+21,culture_music,rag_top5,What opera company is based in Pittsburgh?,Pittsburgh Opera,Pittsburgh Opera,1.0000,1.0000,1.0000
+22,culture_music,rag_top5,What is Pittsburgh's major symphony orchestra called?,Pittsburgh Symphony Orchestra,Pittsburgh Symphony Orchestra,1.0000,1.0000,1.0000
+23,food_events,rag_top5,What festival is described as the destination for all things pickled?,Picklesburgh,Picklesburgh,1.0000,1.0000,1.0000
+24,food_events,rag_top5,When does Picklesburgh 2026 run?,"July 16-19, 2026","Thursday, July 16th – Sunday, July 19th, 2026",0.0000,0.3636,0.5000
+25,food_events,rag_top5,Which Pittsburgh festival honors food service pioneers and was established in 2019?,Pittsburgh Soul Food Festival,Soul Food Festival,0.0000,0.8571,0.7500
+26,food_events,rag_top5,What annual Pittsburgh festival celebrates tacos and Mexican cuisine?,The Original Pittsburgh Taco Festival,The Original Pittsburgh Taco Festival,1.0000,1.0000,1.0000
+27,food_events,rag_top5,"Which festival includes pickle cocktails, pickle beer, and a pickle juice drinking contest?",Picklesburgh,Picklesburgh,1.0000,1.0000,1.0000
+28,food_events,rag_top5,At what venue is The Original Pittsburgh Taco Festival held?,The Stacks at 3 Crossings,The Stacks at 3 Crossings,1.0000,1.0000,1.0000
+29,food_events,rag_top5,What year did Little Italy Days begin?,2002,2002,1.0000,1.0000,1.0000
+30,food_events,rag_top5,Which Westmoreland County festival celebrates the birthplace of the banana split?,The Great American Banana Split Celebration,The Great American Banana Split Celebration,1.0000,1.0000,1.0000
+31,sports,rag_top5,What ballpark is home to the Pittsburgh Pirates?,PNC Park,PNC Park,1.0000,1.0000,1.0000
+32,sports,rag_top5,What stadium is home to the Pittsburgh Steelers?,Acrisure Stadium,Acrisure Stadium,1.0000,1.0000,1.0000
+33,sports,rag_top5,What arena is home to the Pittsburgh Penguins?,PPG Paints Arena,PPG Paints Arena,1.0000,1.0000,1.0000
+34,sports,rag_top5,How many Super Bowl championships are associated with the Steelers on Visit Pittsburgh?,six,6,0.0000,0.0000,0.0000
+35,sports,rag_top5,How many Stanley Cup championships are associated with the Penguins on Visit Pittsburgh?,five,5,0.0000,0.0000,0.0000
+36,sports,rag_top5,Under what name was the Pirates franchise founded?,Allegheny Base Ball Club of Pittsburgh,Alleghenys,0.0000,0.0000,0.0000
+37,sports,rag_top5,When was the Pittsburgh Pirates franchise founded?,1881,1882,0.0000,0.0000,0.0000
+38,sports,rag_top5,What colors are shared by Pittsburgh's major professional sports teams?,black and gold,black and gold,1.0000,1.0000,1.0000
+39,sports,rag_top5,Which Pittsburgh team helped inspire the nickname Sixburgh?,Pittsburgh Steelers,Pittsburgh Steelers,1.0000,1.0000,1.0000
+40,sports,rag_top5,What is the PNC Park right-field wall called?,Clemente Wall,Clemente Wall,1.0000,1.0000,1.0000
+1,general_history,rag_rerank,Which British fort replaced Fort Duquesne at Pittsburgh's Point?,Fort Pitt,Fort Pitt,1.0000,1.0000,1.0000
+2,general_history,rag_rerank,Which two rivers meet to form the Ohio River in Pittsburgh?,Allegheny River and Monongahela River,Allegheny and Monongahela,0.0000,0.7500,0.6000
+3,general_history,rag_rerank,What U.S. state is Pittsburgh located in?,Pennsylvania,Pennsylvania,1.0000,1.0000,1.0000
+4,general_history,rag_rerank,What nickname connects Pittsburgh to steelmaking?,Steel City,Steel City,1.0000,1.0000,1.0000
+5,general_history,rag_rerank,What Pittsburgh neighborhood is also called the city's Little Italy?,Bloomfield,Bloomfield,1.0000,1.0000,1.0000
+6,general_history,rag_rerank,How many neighborhoods are listed for Pittsburgh?,90,90,1.0000,1.0000,1.0000
+7,general_history,rag_rerank,How many bridges are associated with Pittsburgh in the corpus?,446 bridges,446,0.0000,0.6667,0.5000
+8,general_history,rag_rerank,What is the name of Pittsburgh's Downtown triangle?,Golden Triangle,Golden Triangle,1.0000,1.0000,1.0000
+9,cmu,rag_rerank,What year did Carnegie Mellon University take its current name after a merger?,1967,1967,1.0000,1.0000,1.0000
+10,cmu,rag_rerank,What school did Andrew Carnegie establish in 1900?,Carnegie Technical Schools,Carnegie Technical Schools,1.0000,1.0000,1.0000
+11,cmu_history,rag_rerank,Which CMU institute was the first robotics institute at a U.S. university?,Robotics Institute,Robotics Institute,1.0000,1.0000,1.0000
+12,cmu_history,rag_rerank,Which CMU institute was launched in 1984?,Software Engineering Institute,Software Engineering Institute,1.0000,1.0000,1.0000
+13,cmu,rag_rerank,What is The Fence at Carnegie Mellon often called?,the world's most painted object,the world's most painted object,1.0000,1.0000,1.0000
+14,cmu,rag_rerank,In what Pittsburgh neighborhood is Carnegie Mellon's urban campus nestled?,Oakland,Oakland,1.0000,1.0000,1.0000
+15,cmu_history,rag_rerank,Name one CMU researcher associated with the early history of AI at CMU.,Alan Newell; Herb Simon; Allen Perlis; Raj Reddy,Alan Newell,1.0000,1.0000,1.0000
+16,museums,rag_rerank,How many institutions make up Carnegie Museums of Pittsburgh?,four,4,0.0000,0.0000,0.0000
+17,museums,rag_rerank,Which Carnegie museum is devoted to Andy Warhol?,The Andy Warhol Museum,The Andy Warhol Museum,1.0000,1.0000,1.0000
+18,museums,rag_rerank,Who created the Carnegie Institute in Pittsburgh?,Andrew Carnegie,Andrew Carnegie,1.0000,1.0000,1.0000
+19,museums_history,rag_rerank,Which Pittsburgh museum shares stories of Western Pennsylvania's people?,Heinz History Center,Heinz History Center,1.0000,1.0000,1.0000
+20,museums,rag_rerank,What is the historic house at The Frick Pittsburgh called?,Clayton,Clayton,1.0000,1.0000,1.0000
+21,culture_music,rag_rerank,What opera company is based in Pittsburgh?,Pittsburgh Opera,Pittsburgh Opera,1.0000,1.0000,1.0000
+22,culture_music,rag_rerank,What is Pittsburgh's major symphony orchestra called?,Pittsburgh Symphony Orchestra,Pittsburgh Symphony Orchestra,1.0000,1.0000,1.0000
+23,food_events,rag_rerank,What festival is described as the destination for all things pickled?,Picklesburgh,Picklesburgh,1.0000,1.0000,1.0000
+24,food_events,rag_rerank,When does Picklesburgh 2026 run?,"July 16-19, 2026","Thursday, July 16th – Sunday, July 19th",0.0000,0.2000,0.2500
+25,food_events,rag_rerank,Which Pittsburgh festival honors food service pioneers and was established in 2019?,Pittsburgh Soul Food Festival,Soul Food Festival,0.0000,0.8571,0.7500
+26,food_events,rag_rerank,What annual Pittsburgh festival celebrates tacos and Mexican cuisine?,The Original Pittsburgh Taco Festival,The Original Pittsburgh Taco Festival,1.0000,1.0000,1.0000
+27,food_events,rag_rerank,"Which festival includes pickle cocktails, pickle beer, and a pickle juice drinking contest?",Picklesburgh,Picklesburgh,1.0000,1.0000,1.0000
+28,food_events,rag_rerank,At what venue is The Original Pittsburgh Taco Festival held?,The Stacks at 3 Crossings,The Stacks at 3 Crossings,1.0000,1.0000,1.0000
+29,food_events,rag_rerank,What year did Little Italy Days begin?,2002,2002,1.0000,1.0000,1.0000
+30,food_events,rag_rerank,Which Westmoreland County festival celebrates the birthplace of the banana split?,The Great American Banana Split Celebration,The Great American Banana Split Celebration,1.0000,1.0000,1.0000
+31,sports,rag_rerank,What ballpark is home to the Pittsburgh Pirates?,PNC Park,PNC Park,1.0000,1.0000,1.0000
+32,sports,rag_rerank,What stadium is home to the Pittsburgh Steelers?,Acrisure Stadium,Acrisure Stadium,1.0000,1.0000,1.0000
+33,sports,rag_rerank,What arena is home to the Pittsburgh Penguins?,PPG Paints Arena,PPG Paints Arena,1.0000,1.0000,1.0000
+34,sports,rag_rerank,How many Super Bowl championships are associated with the Steelers on Visit Pittsburgh?,six,6,0.0000,0.0000,0.0000
+35,sports,rag_rerank,How many Stanley Cup championships are associated with the Penguins on Visit Pittsburgh?,five,5,0.0000,0.0000,0.0000
+36,sports,rag_rerank,Under what name was the Pirates franchise founded?,Allegheny Base Ball Club of Pittsburgh,Allegheny Base Ball Club of Pittsburgh,1.0000,1.0000,1.0000
+37,sports,rag_rerank,When was the Pittsburgh Pirates franchise founded?,1881,1882,0.0000,0.0000,0.0000
+38,sports,rag_rerank,What colors are shared by Pittsburgh's major professional sports teams?,black and gold,black and gold,1.0000,1.0000,1.0000
+39,sports,rag_rerank,Which Pittsburgh team helped inspire the nickname Sixburgh?,Pittsburgh Steelers,Pittsburgh Steelers,1.0000,1.0000,1.0000
+40,sports,rag_rerank,What is the PNC Park right-field wall called?,Clemente Wall,Clemente Wall,1.0000,1.0000,1.0000

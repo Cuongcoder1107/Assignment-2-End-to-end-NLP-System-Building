@@ -1,0 +1,4 @@
+system,output_path,num_questions,exact_match,token_f1,answer_recall
+closed_book,system_outputs/system_output_closed_book.txt,40,0.1500,0.1892,0.2083
+rag_top5,system_outputs/system_output_1.txt,40,0.6750,0.7690,0.7662
+rag_rerank,system_outputs/system_output_2_rerank.txt,40,0.8000,0.8618,0.8525

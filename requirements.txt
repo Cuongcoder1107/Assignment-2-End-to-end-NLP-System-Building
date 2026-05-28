@@ -1,0 +1,12 @@
+beautifulsoup4
+pdfplumber
+pypdf
+pandas
+numpy
+tqdm
+qdrant-client
+requests
+sentence-transformers
+faiss-cpu
+transformers
+torch

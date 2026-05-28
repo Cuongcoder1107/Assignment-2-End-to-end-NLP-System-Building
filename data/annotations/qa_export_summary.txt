@@ -1,0 +1,4 @@
+QA annotation export summary
+Input: data/annotations/qa_master.tsv
+Train examples: 80
+Test examples: 40

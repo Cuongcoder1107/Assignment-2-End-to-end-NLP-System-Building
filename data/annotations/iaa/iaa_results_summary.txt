@@ -1,0 +1,5 @@
+IAA results summary
+Compared examples: 25
+Exact agreement: 1.0000
+Average token F1 agreement: 1.0000
+Detailed results: data\annotations\iaa\iaa_results.csv

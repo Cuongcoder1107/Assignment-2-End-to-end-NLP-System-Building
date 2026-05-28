@@ -1,0 +1,120 @@
+Ke hoach cac giai doan hoan thien Assignment RAG (Pittsburgh + CMU)
+
+Giai doan 1 - Hieu de bai va thiet ke pham vi
+Muc tieu:
+- Chot yeu cau ky thuat, policy model/data, metric danh gia.
+Cong viec chinh:
+- Doc ky de bai va rubric.
+- Chot pham vi cau hoi: history, culture, trivia, upcoming events.
+- Chon stack co ban: embedder + retriever + reader.
+Dau ra:
+- 1 tai lieu requirement + architecture draft.
+Tieu chi hoan thanh:
+- Toan nhom thong nhat pipeline va ke hoach thuc hien.
+
+Giai doan 2 - Thu thap knowledge resource
+Muc tieu:
+- Tao kho tai lieu cong khai lien quan Pittsburgh/CMU.
+Cong viec chinh:
+- Crawl/scrape cac website duoc goi y (Wikipedia, city pages, CMU, events, food, sports, culture).
+- Thu thap them cac subpage va PDF lien quan.
+- Luu metadata: URL, ngay crawl, loai tai lieu.
+Dau ra:
+- Thu muc raw_data/ gom HTML/PDF/TXT + metadata.csv.
+Tieu chi hoan thanh:
+- Bao phu du chu de va co truy vet nguon ro rang.
+
+Giai doan 3 - Tien xu ly va chuan hoa du lieu
+Muc tieu:
+- Chuyen raw data thanh corpus sach cho retrieval.
+Cong viec chinh:
+- Parse HTML bang BeautifulSoup, parse PDF bang pypdf/pdfplumber.
+- Loai bo boilerplate, menu, script, noise.
+- Chunk van ban (theo doan/so tu), gan source id.
+Dau ra:
+- Corpus da lam sach + file chunks co schema on dinh.
+Tieu chi hoan thanh:
+- Van ban de truy hoi, chunk chat luong, co lien ket nguon.
+
+Giai doan 4 - Annotate data test/train
+Muc tieu:
+- Tao tap QA cho phat trien he thong.
+Cong viec chinh:
+- Tao data/test/questions.txt va reference_answers.txt da dang.
+- Tao data/train/questions.txt va reference_answers.txt (manual hoac bo sung tu external data hop le).
+- Quy uoc dap an ngan gon, co the co nhieu reference cach nhau boi ';'.
+Dau ra:
+- Bo train/test theo dung format nop bai.
+Tieu chi hoan thanh:
+- Tap test du lon, da dang loai cau hoi, annotation ro rang.
+
+Giai doan 5 - Danh gia chat luong annotation (IAA)
+Muc tieu:
+- Chung minh do tin cay cua du lieu gan nhan.
+Cong viec chinh:
+- It nhat 2 thanh vien annotate trung mot tap con random cua test.
+- Tinh IAA (vi du exact match agreement/F1 agreement tuy quy uoc nhom).
+- Ghi nhan bat dong va quy tac resolve.
+Dau ra:
+- Bao cao IAA + phuong phap + ket qua.
+Tieu chi hoan thanh:
+- Co so lieu IAA va quy trinh thong nhat nhan.
+
+Giai doan 6 - Xay dung va lap rap RAG
+Muc tieu:
+- Hoan thanh pipeline QA retrieval-augmented.
+Cong viec chinh:
+- Index chunks vao vector DB (vd: Chroma/FAISS).
+- Xay retriever (top-k, similarity, rerank neu co).
+- Xay reader/generator (LLM open qua HuggingFace) va prompt template.
+- Tao baseline closed-book de so sanh.
+Dau ra:
+- Ma nguon chay duoc end-to-end tren tap test noi bo.
+Tieu chi hoan thanh:
+- He thong sinh duoc cau tra loi dung dinh dang 1 dong/1 cau hoi.
+
+Giai doan 7 - Thi nghiem, danh gia, phan tich
+Muc tieu:
+- Chon cau hinh tot nhat va rut ra ket luan ky thuat.
+Cong viec chinh:
+- Thu it nhat 2 bien the he thong (khac model/retriever/prompt).
+- Tinh Recall, EM, F1 tren test noi bo.
+- Phan tich theo nhom cau hoi (history/events/temporal/etc.).
+- So sanh RAG vs closed-book va trinh bay vi du output.
+Dau ra:
+- Bang ket qua + phan tich dinh luong/dinh tinh.
+Tieu chi hoan thanh:
+- Co bang chung thuyet phuc cho lua chon he thong cuoi.
+
+Giai doan 8 - Chay tren test private va tao output nop bai
+Muc tieu:
+- Tao file du doan cho de private cua mon hoc.
+Cong viec chinh:
+- Chay he thong da chot tren questions private.
+- Tao system_output_1.txt (toi da them 2 bien the neu can).
+- Kiem tra format dong va thu tu cau tra loi.
+Dau ra:
+- system_outputs/system_output_{1,2,3}.txt
+Tieu chi hoan thanh:
+- File hop le va san sang nop.
+
+Giai doan 9 - Hoan tat bao cao va dong goi submission
+Muc tieu:
+- Hoan chinh tat ca deliverables theo rubric.
+Cong viec chinh:
+- Viet report (data creation, model details, results, analysis).
+- Cap nhat GitHub repo + README huong dan chay.
+- Tao contributions.md (chia cong viec tung thanh vien).
+- Dong goi zip dung cau truc ANDREWID/.
+Dau ra:
+- Goi nop hoan chinh tren Canvas.
+Tieu chi hoan thanh:
+- Du file, dung format, noi dung dat tieu chi cham diem.
+
+Checklist nhanh truoc khi nop
+- Co data train/test do nhom tao.
+- Co IAA va mo ta cach tinh.
+- Co it nhat 2 bien the mo hinh de so sanh.
+- Co ket qua EM/F1/Recall tren test noi bo.
+- Co output tren private test.
+- Co report + github_url.txt + contributions.md + README.md.

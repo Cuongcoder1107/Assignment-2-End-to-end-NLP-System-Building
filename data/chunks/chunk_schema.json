@@ -1,0 +1,15 @@
+{
+  "chunk_id": "Stable chunk identifier, formatted as {source_id}__chunk_{index}.",
+  "source_id": "Document/source identifier inherited from data/raw/metadata/metadata.csv.",
+  "title": "Human-readable source title.",
+  "url": "Original public URL.",
+  "topic": "Source topic label, such as general_history, cmu, events, food_events, sports.",
+  "document_type": "Original document type from metadata, usually html or pdf.",
+  "local_path": "Path to the raw downloaded file.",
+  "chunk_index": "Zero-based chunk index within the source document.",
+  "text": "Cleaned retrieval text for this chunk.",
+  "word_count": "Number of whitespace-delimited words in text.",
+  "char_count": "Number of characters in text.",
+  "content_sha1": "Short SHA1 hash for change tracking.",
+  "processed_at": "UTC timestamp when preprocessing was run."
+}

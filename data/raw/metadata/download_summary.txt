@@ -1,0 +1,21 @@
+﻿Raw data collection summary
+Crawled at: 2026-05-28T09:33:34.7103293+07:00
+Total sources attempted: 87
+Successful downloads: 64
+Failed downloads: 23
+
+Successful downloads by topic:
+- budget_tax: 3
+- city_policy: 1
+- cmu: 4
+- cmu_events: 3
+- cmu_history: 3
+- culture_music: 10
+- events: 3
+- events_music_sports: 1
+- food_events: 9
+- general_history: 3
+- museums: 7
+- museums_history: 2
+- sports: 13
+- tourism_general: 2

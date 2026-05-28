@@ -1,0 +1,7 @@
+IAA subset preparation summary
+Source questions: data/test/questions.txt
+Source answers: data/test/reference_answers.txt
+Test examples available: 40
+IAA sample size: 25
+Seed: 7111
+Annotator files contain blank annotated_answer columns for independent review.

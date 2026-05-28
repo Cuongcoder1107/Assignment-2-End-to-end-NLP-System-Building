@@ -1,0 +1,88 @@
+source_id,title,url,topic,document_type,notes
+wiki_pittsburgh,Wikipedia Pittsburgh,https://en.wikipedia.org/wiki/Pittsburgh,general_history,html,General Pittsburgh facts and history
+wiki_history_pittsburgh,Wikipedia History of Pittsburgh,https://en.wikipedia.org/wiki/History_of_Pittsburgh,general_history,html,History-focused Pittsburgh page
+britannica_pittsburgh,Britannica Pittsburgh,https://www.britannica.com/place/Pittsburgh,general_history,html,Encyclopedia overview
+city_home,City of Pittsburgh Home,https://www.pittsburghpa.gov/Home,general_city,html,Official city website
+city_operating_budgets,City Operating Budgets,https://www.pittsburghpa.gov/City-Government/Finances-Budget/Management-Budget/Budgets-and-Reports/Operating-Budgets,budget_tax,html,Official operating budget index
+city_2024_operating_budget_pdf,City of Pittsburgh 2024 Operating Budget PDF,https://www.pittsburghpa.gov/files/assets/city/v/1/omb/documents/operating-budgets/24731_2024_operating_budget_2.pdf,budget_tax,pdf,Official 2024 operating budget PDF
+city_tax_forms,City Tax Forms and Regulations,https://www.pittsburghpa.gov/City-Government/Finances-Budget/Taxes/Tax-Forms,budget_tax,html,Official tax forms page with regulation PDFs
+engagepgh_past_budget_engagements,EngagePgh Past Budget Engagements,https://engage.pittsburghpa.gov/city-pittsburgh-budget-engagements/past-city-budget-engagements,budget_tax,html,City-operated budget engagement archive and budget links
+engagepgh_2024_virtual_budget,EngagePgh 2024 Virtual Budget Engagement,https://engage.pittsburghpa.gov/city-pittsburgh-budget-engagements/2024-virtual-budget-engagement,budget_tax,html,City-operated 2024 budget engagement notes
+engagepgh_2024_preliminary_budget_questions,EngagePgh 2024 Preliminary Budget Questions,https://engage.pittsburghpa.gov/city-pittsburgh-budget-engagements/what-questions-do-you-have-about-mayors-preliminary-2024-operating-and-capital-budgets,budget_tax,html,City-operated preliminary budget engagement page
+engagepgh_vision_zero,EngagePgh Vision Zero,https://engage.pittsburghpa.gov/vision-zero,city_policy,html,City-operated policy page with 2024 budget references
+ecode_business_related_taxes,City Code Article VII Business Related Taxes,https://ecode360.com/45439497,budget_tax,html,City of Pittsburgh municipal code tax article
+ecode_amusement_tax,City Code Chapter 241 Amusement Tax,https://ecode360.com/45439513,budget_tax,html,City amusement tax code
+ecode_business_privilege_tax,City Code Chapter 243 Business Privilege Tax,https://ecode360.com/45439587,budget_tax,html,City business privilege tax code
+ecode_home_rule_tax,City Code Chapter 246 Home Rule Tax,https://ecode360.com/45439637,budget_tax,html,City home rule tax code
+ecode_institution_service_privilege_tax,City Code Chapter 247 Institution and Service Privilege Tax,https://ecode360.com/45439728,budget_tax,html,City institution and service privilege tax code
+ecode_mercantile_tax,City Code Chapter 249 Mercantile Tax,https://ecode360.com/45439753,budget_tax,html,City mercantile tax code
+ecode_local_services_tax,City Code Chapter 252 Local Services Tax,https://ecode360.com/45439819,budget_tax,html,City local services tax code
+ecode_parking_tax,City Code Chapter 253 Parking Tax,https://ecode360.com/45439845,budget_tax,html,City parking tax code
+ecode_payroll_tax,City Code Chapter 258 Payroll Tax,https://ecode360.com/45440033,budget_tax,html,City payroll tax code
+visitpittsburgh_home,Visit Pittsburgh Home,https://www.visitpittsburgh.com/,tourism_general,html,Official tourism source
+visitpittsburgh_things_to_do,Visit Pittsburgh Things To Do,https://www.visitpittsburgh.com/things-to-do/,tourism_general,html,General activities and attractions
+visitpittsburgh_events_festivals,Visit Pittsburgh Events and Festivals,https://www.visitpittsburgh.com/events-festivals/,events,html,Official events and festivals landing page
+visitpittsburgh_annual_events,Visit Pittsburgh Annual Events,https://www.visitpittsburgh.com/events-festivals/annual-events/,events,html,Annual and recurring events
+visitpittsburgh_food_festivals,Visit Pittsburgh Food Festivals,https://www.visitpittsburgh.com/events-festivals/food-festivals/,food_events,html,Food festival overview
+visitpittsburgh_sports_teams,Visit Pittsburgh Sports Teams,https://www.visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/,sports,html,Official tourism sports overview
+visitpittsburgh_city_champions,Pittsburgh City of Champions,https://www.visitpittsburgh.com/media/press-releases/the-city-of-champions/,sports,html,Sports history and tourism page
+visitpittsburgh_beyond_ballpark,Visit Pittsburgh Beyond the Ballpark,https://www.visitpittsburgh.com/beyond-the-ballpark/,sports,html,Sports venue tourism page
+visitpittsburgh_arts_culture,Visit Pittsburgh Arts and Culture,https://www.visitpittsburgh.com/things-to-do/arts-culture/,culture_music,html,Arts and culture overview
+visitpittsburgh_cultural_phenomenon,Visit Pittsburgh Cultural Phenomenon,https://www.visitpittsburgh.com/blog/pittsburgh-a-cultural-phenomenon/,culture_music,html,Cultural District and major arts organizations
+visitpittsburgh_pittsburgh_arts,Visit Pittsburgh Fall is for the Arts,https://www.visitpittsburgh.com/pittsburgh-arts/,culture_music,html,Arts and performance overview
+cmu_about,CMU About,https://www.cmu.edu/about/index.html,cmu,html,Official CMU overview
+cmu_history,CMU History,https://www.cmu.edu/about/history,cmu_history,html,Official CMU history page
+cmu_visit,CMU Visit,https://www.cmu.edu/visit/,cmu,html,Campus visit information
+cmu_events_calendar,CMU Events Calendar,https://events.cmu.edu/,cmu_events,html,Official CMU events calendar
+cmu_student_calendars,CMU Student Affairs Calendars,https://www.cmu.edu/student-affairs/sit/involvement/calendar/index.html,cmu_events,html,Campus calendars page
+cmu_event_submission_guidelines,CMU Events Calendar Guidelines,https://www.cmu.edu/marcom/resources/events-calendar-submission-guidelines.html,cmu_events,html,Event calendar policy and public event scope
+cmu_ai_history,History of AI at CMU,https://ai.cmu.edu/research-and-policy-impact/history-of-ai-at-cmu,cmu_history,html,CMU AI history and impact
+cmu_libraries_history,History of CMU Libraries,https://library.cmu.edu/history,cmu_history,html,CMU Libraries history
+wiki_cmu,Wikipedia Carnegie Mellon University,https://en.wikipedia.org/wiki/Carnegie_Mellon_University,cmu,html,General CMU facts
+wiki_cmu_scs,Wikipedia CMU School of Computer Science,https://en.wikipedia.org/wiki/Carnegie_Mellon_School_of_Computer_Science,cmu,html,SCS facts and history
+downtown_pittsburgh_events,Downtown Pittsburgh Events,https://downtownpittsburgh.com/events/,events,html,Downtown event calendar
+pgh_city_paper_events,Pittsburgh City Paper Events,https://www.pghcitypaper.com/pittsburgh/EventSearch,events,html,City Paper event search page
+ppg_paints_events,PPG Paints Arena Events,https://www.ppgpaintsarena.com/events/all,events_music_sports,html,Arena upcoming events
+trustarts_home,Pittsburgh Cultural Trust,https://trustarts.org/,culture_music,html,Cultural Trust landing page
+trustarts_events,Pittsburgh Cultural Trust Events,https://trustarts.org/events,culture_music,html,Cultural district event listings
+wiki_pittsburgh_cultural_trust,Wikipedia Pittsburgh Cultural Trust,https://en.wikipedia.org/wiki/Pittsburgh_Cultural_Trust,culture_music,html,Cultural Trust background
+pittsburgh_symphony_home,Pittsburgh Symphony Orchestra,https://www.pittsburghsymphony.org/,culture_music,html,Symphony landing page
+pittsburgh_symphony_events,Pittsburgh Symphony Events,https://www.pittsburghsymphony.org/events,culture_music,html,Symphony event listings
+visitpittsburgh_symphony_directory,Visit Pittsburgh Pittsburgh Symphony Directory,https://www.visitpittsburgh.com/directory/pittsburgh-symphony-orchestra/,culture_music,html,Symphony directory and venue facts
+wiki_pittsburgh_symphony,Wikipedia Pittsburgh Symphony Orchestra,https://en.wikipedia.org/wiki/Pittsburgh_Symphony_Orchestra,culture_music,html,Symphony background
+pittsburgh_opera_home,Pittsburgh Opera,https://www.pittsburghopera.org/,culture_music,html,Opera landing page
+pittsburgh_opera_events,Pittsburgh Opera Events,https://opera.culturaldistrict.org/events,culture_music,html,Opera event listings
+visitpittsburgh_opera_directory,Visit Pittsburgh Pittsburgh Opera Directory,https://www.visitpittsburgh.com/directory/pittsburgh-opera/,culture_music,html,Opera directory and current season facts
+wiki_pittsburgh_opera,Wikipedia Pittsburgh Opera,https://en.wikipedia.org/wiki/Pittsburgh_Opera,culture_music,html,Opera background
+carnegie_museums_about,Carnegie Museums About,https://carnegiemuseums.org/about-us/,museums,html,Carnegie Museums overview
+carnegie_museums_history,Carnegie Museums History,https://carnegiemuseums.org/about-us/our-history/,museums,html,Carnegie Museums history
+carnegie_museums_list,Carnegie Museums List,https://carnegiemuseums.org/about-us/our-museums/,museums,html,Four museums overview
+carnegie_museums_quick_facts_pdf,Carnegie Museums Quick Facts PDF,https://carnegiemuseums.org/docs/QuickFacts.pdf,museums,pdf,Quick facts PDF
+carnegie_natural_history,Carnegie Museum of Natural History,https://carnegiemnh.org/,museums,html,Natural history museum
+carnegie_art_about,Carnegie Museum of Art About,https://carnegieart.org/about/our-ambitions/,museums,html,Carnegie Museum of Art overview
+heinz_history_center,Heinz History Center,https://www.heinzhistorycenter.org/,museums_history,html,History center landing page
+heinz_history_center_visit,Heinz History Center Visit,https://www.heinzhistorycenter.org/visit/,museums_history,html,Visitor and museum information
+frick_pittsburgh,The Frick Pittsburgh,https://www.thefrickpittsburgh.org/,museums,html,Frick museum and grounds
+picklesburgh_home,Picklesburgh Home,https://www.picklesburgh.com/,food_events,html,Annual pickle festival
+picklesburgh_visit,Picklesburgh Visit,https://www.picklesburgh.com/visit/,food_events,html,Visitor information and festival facts
+picklesburgh_map_pdf,Picklesburgh Map PDF,https://www.picklesburgh.com/wp-content/uploads/2025/07/PicklesburghMainMapWhite11x17.pdf,food_events,pdf,Festival map PDF
+pittsburgh_taco_fest_visitpittsburgh,Pittsburgh Taco Festival Visit Pittsburgh,https://www.visitpittsburgh.com/events-festivals/food-festivals/the-original-pittsburgh-taco-festival/,food_events,html,Taco festival overview
+pittsburgh_restaurant_week,Pittsburgh Restaurant Week,https://pittsburghrestaurantweek.com/,food_events,html,Official restaurant week source
+pittsburgh_restaurant_week_winter,Visit Pittsburgh Winter Restaurant Week,https://www.visitpittsburgh.com/blog/winter-restaurant-week/,food_events,html,Restaurant week guide
+pittsburgh_restaurant_week_pdf,Pittsburgh Restaurant Week Printable PDF,https://pittsburghrestaurantweek.com/wp-content/uploads/2026/01/PRWW26_Printable_011426.pdf,food_events,pdf,Printable restaurant week PDF
+little_italy_days_about,Little Italy Days About,https://littleitalydays.com/about-us/,food_events,html,Annual Bloomfield festival information
+banana_split_festival,Banana Split Festival,https://bananasplitfest.com/,food_events,html,Regional annual food event
+visitpittsburgh_ppg_directory,Visit Pittsburgh PPG Paints Arena Directory,https://www.visitpittsburgh.com/directory/ppg-paints-arena/,events_music_sports,html,Arena facts and venue details
+visitpittsburgh_music_venues,Visit Pittsburgh Music Venues Guide,https://www.visitpittsburgh.com/blog/pittsburgh-music-venues/,culture_music,html,Music venue guide including PPG Paints Arena
+visitpittsburgh_sports_venues,Visit Pittsburgh Sports Venues,https://www.visitpittsburgh.com/things-to-do/arts-culture/architecture/sports-venues/,sports,html,Sports venue architecture and history
+visitpittsburgh_pirates_pncpark,Visit Pittsburgh Pirates at PNC Park Directory,https://www.visitpittsburgh.com/directory/pittsburgh-pirates-at-pnc-park/,sports,html,Pirates and PNC Park directory facts
+visitpittsburgh_pnc_park_food_map,Visit Pittsburgh PNC Park Food Map,https://www.visitpittsburgh.com/blog/pnc-park-food-map/,sports,html,PNC Park food and fan guide
+steelers_history,Steelers History,https://www.steelers.com/history/,sports,html,Official Steelers history
+pirates_history,Pirates History,https://www.mlb.com/pirates/history,sports,html,Official Pirates history
+pirates_early_years,Pirates Early Years,https://www.mlb.com/pirates/history/timeline/early-years,sports,html,Official Pirates timeline
+penguins_home,Penguins Home,https://www.nhl.com/penguins,sports,html,Official Penguins landing page
+penguins_uniform_history,Penguins Uniform History,https://www.nhl.com/penguins/team/uniform-history,sports,html,Official uniform history
+penguins_season_records,Penguins Season Records,https://www.nhl.com/penguins/team/season-by-season-record,sports,html,Official season records
+wiki_steelers,Wikipedia Pittsburgh Steelers,https://en.wikipedia.org/wiki/Pittsburgh_Steelers,sports,html,Steelers facts and history
+wiki_pirates,Wikipedia Pittsburgh Pirates,https://en.wikipedia.org/wiki/Pittsburgh_Pirates,sports,html,Pirates facts and history
+wiki_penguins,Wikipedia Pittsburgh Penguins,https://en.wikipedia.org/wiki/Pittsburgh_Penguins,sports,html,Penguins facts and history
