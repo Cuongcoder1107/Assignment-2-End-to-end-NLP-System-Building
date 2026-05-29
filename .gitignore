@@ -35,7 +35,8 @@ data/chunks/chunks.jsonl
 data/chunks/chunks.csv
 
 # Runtime outputs
-logs/
+logs/*
+!logs/.gitkeep
 artifacts/runs/
 system_outputs/
 
@@ -60,4 +61,3 @@ Thumbs.db
 *.run.xml
 *.synctex.gz
 *.toc
-
